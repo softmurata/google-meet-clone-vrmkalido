@@ -3,7 +3,7 @@ samples for changing vrm's face and pose, and adding it to animation
 
 ## Install
 ```
-git clone https://github.com/softmurata/google-meet-clone-mediapipe
+git clone https://github.com/softmurata/google-meet-clone-vrmkalido.git
 ```
 ```
 npm install
